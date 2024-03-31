@@ -1,0 +1,15 @@
+C:\Users\37493\source\repos\MyExperience_Generics\MyExperience_Generics\bin\Debug\net8.0\MyExperience_Generics.exe
+C:\Users\37493\source\repos\MyExperience_Generics\MyExperience_Generics\bin\Debug\net8.0\MyExperience_Generics.deps.json
+C:\Users\37493\source\repos\MyExperience_Generics\MyExperience_Generics\bin\Debug\net8.0\MyExperience_Generics.runtimeconfig.json
+C:\Users\37493\source\repos\MyExperience_Generics\MyExperience_Generics\bin\Debug\net8.0\MyExperience_Generics.dll
+C:\Users\37493\source\repos\MyExperience_Generics\MyExperience_Generics\bin\Debug\net8.0\MyExperience_Generics.pdb
+C:\Users\37493\source\repos\MyExperience_Generics\MyExperience_Generics\obj\Debug\net8.0\MyExperience_Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\37493\source\repos\MyExperience_Generics\MyExperience_Generics\obj\Debug\net8.0\MyExperience_Generics.AssemblyInfoInputs.cache
+C:\Users\37493\source\repos\MyExperience_Generics\MyExperience_Generics\obj\Debug\net8.0\MyExperience_Generics.AssemblyInfo.cs
+C:\Users\37493\source\repos\MyExperience_Generics\MyExperience_Generics\obj\Debug\net8.0\MyExperience_Generics.csproj.CoreCompileInputs.cache
+C:\Users\37493\source\repos\MyExperience_Generics\MyExperience_Generics\obj\Debug\net8.0\MyExperience_Generics.sourcelink.json
+C:\Users\37493\source\repos\MyExperience_Generics\MyExperience_Generics\obj\Debug\net8.0\MyExperience_Generics.dll
+C:\Users\37493\source\repos\MyExperience_Generics\MyExperience_Generics\obj\Debug\net8.0\refint\MyExperience_Generics.dll
+C:\Users\37493\source\repos\MyExperience_Generics\MyExperience_Generics\obj\Debug\net8.0\MyExperience_Generics.pdb
+C:\Users\37493\source\repos\MyExperience_Generics\MyExperience_Generics\obj\Debug\net8.0\MyExperience_Generics.genruntimeconfig.cache
+C:\Users\37493\source\repos\MyExperience_Generics\MyExperience_Generics\obj\Debug\net8.0\ref\MyExperience_Generics.dll

@@ -6,7 +6,8 @@
         {
 
             Console.WriteLine("abo");
-            
+
+            Console.WriteLine("gsgasdgshdha");
 
 
 
@@ -21,8 +22,8 @@
 
 
 
-
-
+            List<string> list = new List<string>();
+            list.Add("1");
 
 
 
